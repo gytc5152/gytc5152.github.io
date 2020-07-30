@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>寻梦旅人 - Review</title><link href="/" rel="alternate"></link><link href="/feeds/review.atom.xml" rel="self"></link><id>/</id><updated>2020-02-01T10:20:00+00:00</updated><entry><title>pelican部署静态网站</title><link href="/pelicanbu-shu-jing-tai-wang-zhan.html" rel="alternate"></link><published>2020-02-01T10:20:00+00:00</published><updated>2020-02-01T10:20:00+00:00</updated><author><name>gydream</name></author><id>tag:None,2020-02-01:/pelicanbu-shu-jing-tai-wang-zhan.html</id><content type="html">&lt;p&gt;1.安装环境&lt;/p&gt;
+&lt;p&gt;pip install  pelican markdown&lt;/p&gt;
+&lt;p&gt;output 目录下输入&lt;/p&gt;
+&lt;p&gt;python -m http.server&lt;/p&gt;
+&lt;p&gt;浏览http://localhost:8000/地址预览效果.&lt;/p&gt;</content><category term="Review"></category></entry></feed>

@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'gaoyuan'
-SITENAME = 'TC blog\x1b[D\x1b[D\x1b[D\x1b[D\x1bGY\x1b[C\x1b[C\x1b[C\x1b[C\x1b[C\x1b[D\x1b[D\x1b[D\x1b[D\x1b[D\x1b[Dao\x1b[C\x1b[D\x1b[C\x1b[C\x1b[ Yuan blog'
+AUTHOR = 'gydream'
+SITENAME = '寻梦旅人'
 SITEURL = ''
 
 PATH = 'content'
